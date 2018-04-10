@@ -1,0 +1,14 @@
+site_name: Ojo Fotográfico
+
+
+pages:
+    - Inicio: index.md
+    - Radal Siete Tazas: radal.md
+
+    - Root:
+      - Sub Menu Tazas: submenu.md
+theme:
+  name: 'material'
+  font:
+    text: 'Montserrat'
+    code: 'Space Mono'
