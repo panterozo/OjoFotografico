@@ -16,3 +16,21 @@ theme:
   font:
     text: 'Montserrat'
     code: 'Space Mono'
+  palette:
+    primary: 'white'
+    accent: 'pink'
+  logo: 'img/camera.png'
+
+  favicon: 'img/camera.ico'
+  language: 'es'
+
+
+extra_css:
+  - 'stylesheets/extra.css'
+
+extra:
+  social:
+    - type: 'instagram'
+      link: 'https://instagram.com/ojofotografico_cl'
+    - type: 'linkedin'
+      link: 'https://www.linkedin.com/in/amanda-guzmán-quezada-3b079b9a'
