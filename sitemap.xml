@@ -4,7 +4,7 @@
     
     <url>
      <loc>/</loc>
-     <lastmod>2018-04-10</lastmod>
+     <lastmod>2018-04-11</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
@@ -12,19 +12,25 @@
     
     <url>
      <loc>/radal/</loc>
-     <lastmod>2018-04-10</lastmod>
+     <lastmod>2018-04-11</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
 
     
-        
     <url>
-     <loc>/submenu/</loc>
-     <lastmod>2018-04-10</lastmod>
+     <loc>/postales/</loc>
+     <lastmod>2018-04-11</lastmod>
      <changefreq>daily</changefreq>
     </url>
-        
+    
+
+    
+    <url>
+     <loc>/chiflon/</loc>
+     <lastmod>2018-04-11</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
     
 
 </urlset>
