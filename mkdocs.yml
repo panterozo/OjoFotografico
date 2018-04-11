@@ -3,10 +3,13 @@ site_name: Ojo Fotográfico
 
 pages:
     - Inicio: index.md
-    - Radal Siete Tazas: radal.md
 
-    - Root:
-      - Sub Menu Tazas: submenu.md
+    - Radal Siete Tazas: radal.md
+    - Postales: postales.md
+    - Chiflón del diablo: chiflon.md
+
+#    - Root:
+#      - Sub Menu Tazas: submenu.md
 theme:
   name: 'material'
   font:
